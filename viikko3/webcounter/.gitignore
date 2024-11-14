@@ -1,0 +1,8 @@
+venv/
+.env/
+*.env
+__pycache__/
+*.log
+*.DS_Store
+selenium-screenshot-*.png
+
