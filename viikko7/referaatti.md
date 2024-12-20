@@ -1,0 +1,7 @@
+### Referaatti kandidaattityöstä "Scrumban-menetelmän käyttö ketterässä ohjelmistokehityksessä"
+
+Scrumban on ketterän ohjelmistokehityksen menetelmä, jossa on sekä Scrumin että Kanbanin periaatteita. Scrumban syntyi tarpeesta yhdistää Scrumin strukturoitu kehitystyö Kanbanin joustavuuteen. Tärkeä piirre Scrumbanissa on ketterälle ohjelmistokehitykselle ominainen jatkuva prosessin parantaminen. Scrumban on erityisen hyödyllinen silloin, kun asiakkaan vaatimukset ja projektin laajuus muuttuvat. Vaatimusten nopea vaihtuminen vaikeuttaa Scrumin iteraatioiden noudattamista niille määrätyissä aikarajoissa. Toisaalta pelkkä Kanban ei välttämättä tuo riittävää struktuuria kehitystiimille ja sen voikin nähdä prosessin sijaan ennemminkin työkaluna.
+
+Scrumbanissa, kuten Kanbanissa, keskitytään työnkulun visualisointiin kanban-taulun avulla. Se auttaa rajoittamaan keskeneräisen työn määrää ja parantaa työprosessin hahmotusta. Scrumbanissa ei ole välttämättä aikarajoitettuja iteraatioita Scrumin tapaan, vaan työnkulku etenee jatkuvan suunnittelun kautta. Suunnitelmat voidaan jakaa neljään aikaväliin: yhden vuoden, kuuden vuoden, kolmen kuukauden ja nykyhetken suunnitelmiin.
+
+Tutkielman tapausesimerkeissä kokemukset Scrumbanista olivat pääosin positiivisia. Joitain ongelmiakin oli, kuten hidas palautesykli ja prosessin monimutkaistuminen.
